@@ -2,12 +2,17 @@
 
 # 🌺 Tourism vs. Water Quality on Oʻahu  
 ### Analyzing how visitor fluctuations influence coastal water quality in O‘ahu
+Author: Grace Stewart
+
+[![Email](https://img.shields.io/badge/Email-Contact-skyblue?logo=email)](mailto:grace.stewart@student.chaminade.edu)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-skyblue?logo=Linkedin)](https://www.linkedin.com/in/gracesstewart)
+[![Website](https://img.shields.io/badge/Website-Visit-skyblue?logo=googlechrome)](https://yourwebsite.com)
 
 <img src="images/DS495_poster.png" width="600" alt="Dashboard Preview">
 
-</div>
 
 ---
+<div align="left">
 
 ## **Overview**
 
@@ -27,3 +32,4 @@ The project includes **data cleaning**, **regression analysis**, and **time-seri
 To run this locally on your own machine, be sure to change the location containing your data as your data directory will differ.
 
 ---
+</div>
