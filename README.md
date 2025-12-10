@@ -22,4 +22,8 @@ Using data from PacIOOS, the Surfrider Foundation, and the Hawaiʻi DBEDT Touris
 
 The project includes **data cleaning**, **regression analysis**, and **time-series modeling (SARIMAX)** using Python.
 
+### **Note**
+
+To run this locally on your own machine, be sure to change the location containing your data as your data directory will differ.
+
 ---
